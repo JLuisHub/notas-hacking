@@ -1,4 +1,5 @@
-# Level 7
+# Level 6 -> level 7
+
 ## Objetivo
 The password for the next level is stored **somewhere on the server** and has all of the following properties:
 
