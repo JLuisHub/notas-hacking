@@ -13,7 +13,7 @@ Password: **z7WtoNQU2XfjmMtWA8u5rN4vzqu4v99S**
 one@Unidad03:~$ ssh bandit7@bandit.labs.overthewire.org -p 2220
 ```
 
-```properties
+```
 bandit7@bandit.labs.overthewire.org's password: z7WtoNQU2XfjmMtWA8u5rN4vzqu4v99S
 ```
 

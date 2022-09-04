@@ -17,7 +17,7 @@ Password: **P4L4vucdmLnm8I7Vl7jG1ApGSfjYKqJU**
 hone@Unidad03:~$ ssh bandit6@bandit.labs.overthewire.org -p 2220
 ```
 
-```properties
+```
 bandit6@bandit.labs.overthewire.org's password: P4L4vucdmLnm8I7Vl7jG1ApGSfjYKqJU
 ```
 
