@@ -49,3 +49,13 @@ Se agregaron las solución de retos bandit 10 - 16
 - [[level16->level17]]
 
 ## [2] - 03-09-2022
+---
+Se agregaron las soluciones de los retos bandit del 17 al 21
+
+### Added
+- [[level17->level18]]
+- [[level18->level19]]
+- [[level20->level21]]
+- [[level21->level22]]
+
+## [3] - 04-09-2022
