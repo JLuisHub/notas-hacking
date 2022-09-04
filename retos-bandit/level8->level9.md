@@ -4,7 +4,7 @@
 The password for the next level is stored in the file **data.txt** and is the only line of text that occurs only once
 
 ## Datos de acceso
-Host: **bandit.labs.overthewire.org** on port 
+Host: **bandit.labs.overthewire.org** on port 2220
 Username: **bandit8**
 Password: **TESKZC0XvTetK0S9xNwm25STk5iWrBvP**
 
