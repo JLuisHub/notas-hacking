@@ -11,12 +11,13 @@ Password: **bandit0**
 ## Solución
 Conectarse por ssh de la "siguiente" manera: 
 
-```
-ssh bandit0@bandit.labs.overthewire.org -p 2220
+```properties
+hone@Unidad03:~$ ssh bandit0@bandit.labs.overthewire.org -p 2220
 ```
 
-Enseguida, se introduce la contraseña.
-
-![banditSolucion-Level0](banditSolucion-Level0-01.png)
+```
+bandit0@bandit.labs.overthewire.org's password: 
+bandit0
+```
 
 ## Notas adicionales

@@ -6,26 +6,38 @@ The password for the next level is stored in a hidden file in the **inhere** dir
 ## Datos de acceso
 Host: **bandit.labs.overthewire.org** on port 2220
 Username: **bandit3**
-Password: **UmHadQclWmgdLOKQ3YNgjWxGoRMb5luK**
+Password: **aBZ0W5EmUfAf7kHTQeOwd8bauFJ2lAiG**
 
 ## Solución
-**hone@Unidad03:~$** ssh bandit3@bandit.labs.overthewire.org -p 2220
+```properties
+hone@Unidad03:~$ ssh bandit3@bandit.labs.overthewire.org -p 2220
+```
 
-bandit3@bandit.labs.overthewire.org's password: UmHadQclWmgdLOKQ3YNgjWxGoRMb5luK
+```
+bandit3@bandit.labs.overthewire.org's password: aBZ0W5EmUfAf7kHTQeOwd8bauFJ2lAiG
+```
 
-**bandit3@bandit:~$** ls
+```properties
+bandit3@bandit:~$** ls
 inhere
+```
 
-**bandit3@bandit:~$** cd inhere/
+```properties
+bandit3@bandit:~$ cd inhere/
+```
 
-**bandit3@bandit:~/inhere$** ls -la
+```properties
+bandit3@bandit:~/inhere$ ls -la
 total 12
-drwxr-xr-x 2 root    root    4096 May  7  2020 .
-drwxr-xr-x 3 root    root    4096 May  7  2020 ..
--rw-r----- 1 bandit4 bandit3   33 May  7  2020 .hidden
+drwxr-xr-x 2 root    root    4096 Sep  1 06:30 .
+drwxr-xr-x 3 root    root    4096 Sep  1 06:30 ..
+-rw-r----- 1 bandit4 bandit3   33 Sep  1 06:30 .hidden
+```
 
-**bandit3@bandit:~/inhere$** cat .hidden 
-pIwrPrtPN36QITSp3EQaw936yaFoFgAB
+```properties
+bandit3@bandit:~/inhere$ cat .hidden 
+2EW7BBsr6aMMoJ2HjW067dm8EgX26xNe
+```
 
 ## Notas adicionales
 ## Referencias

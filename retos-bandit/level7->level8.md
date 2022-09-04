@@ -1,23 +1,31 @@
 # Level 7 -> level 8
+
 ## Objetivo
 The password for the next level is stored in the file **data.txt** next to the word **millionth**
 
 ## Datos de acceso
 Host: **bandit.labs.overthewire.org** on port 2220
 Username: **bandit7**
-Password: **HKBPTKQnIay4Fw76bEy8PVxKEDQRKTzs**
+Password: **z7WtoNQU2XfjmMtWA8u5rN4vzqu4v99S**
 
 ## Solución
-**hone@Unidad03:~$** ssh bandit7@bandit.labs.overthewire.org -p 2220
+```properties
+one@Unidad03:~$ ssh bandit7@bandit.labs.overthewire.org -p 2220
+```
 
-bandit7@bandit.labs.overthewire.org's password: 
-HKBPTKQnIay4Fw76bEy8PVxKEDQRKTzs
+```properties
+bandit7@bandit.labs.overthewire.org's password: z7WtoNQU2XfjmMtWA8u5rN4vzqu4v99S
+```
 
-**bandit7@bandit:~$** ls
+```properties
+bandit7@bandit:~$ ls
 data.txt
+```
 
-**bandit7@bandit:~$** grep millionth data.txt 
-millionth	cvX2JJa4CFALtqS87jk27qwqGhBM9plV
+```properties
+bandit7@bandit:~$ grep millionth data.txt 
+millionth	TESKZC0XvTetK0S9xNwm25STk5iWrBvP
+```
 
 ## Notas adicionales
 ## Referencias

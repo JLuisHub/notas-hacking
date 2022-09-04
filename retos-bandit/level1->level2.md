@@ -6,20 +6,28 @@ The password for the next level is stored in a file called - located in the home
 ## Datos de acceso
 Host: **bandit.labs.overthewire.org** on port 2220
 Username: **bandit1**
-Password: **boJ9jbbUNNfktd78OOpsqOltutMc3MY1**
+Password: **NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL**
 
 ## Solución
->**hone@Unidad03:~$** ssh bandit1@bandit.labs.overthewire.org -p 2220
-This is a OverTheWire game server. More information on http://www.overthewire.org/wargames
 
->**bandit1 @ bandit.labs.overthewire.org's password:** boJ9jbbUNNfktd78OOpsqOltutMc3MY1
+```properties
+hone@Unidad03:~$ ssh bandit1@bandit.labs.overthewire.org -p 2220
+> This is a OverTheWire game server. More information on http://www.overthewire.org/wargames
+```
 
->**bandit1 @ bandit:~$** ls
+```
+bandit0@bandit.labs.overthewire.org's password: bandit0
+```
+
+```properties
+bandit1@bandit:~$ ls
 \-
+```
 
->**bandit1@bandit:~$** cat ./-
-CV1DtqXWVFXTvM2F0k09SHz0YwRINYA9
-
+```properties
+bandit1@bandit:~$ cat ./-
+rRGizSaX8Mk1RTb1CNQoXTcYZWU6lgzi
+```
 
 ## Notas adicionales
 ## Referencias

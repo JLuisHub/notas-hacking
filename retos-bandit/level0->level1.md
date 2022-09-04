@@ -9,10 +9,16 @@ Los datos de acceso son los mismos que del [[level0]]
 ## Solución
 Repetir la solucion del [[level0]],  enseguida...
 
-**bandit0@bandit:~$ ** ls
+```properties
+bandit0@bandit:~$ ls
 readme
+```
 
-**bandit0@bandit:~$** cat readme 
-boJ9jbbUNNfktd78OOpsqOltutMc3MY1
+```properties
+bandit0@bandit:~$ cat readme
+NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL
+```
+
+^d2e535
 
 ## Notas adicionales
