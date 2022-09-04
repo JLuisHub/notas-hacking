@@ -35,3 +35,17 @@ Se cambiarion las contraseñas de los retos
 - Cambio de contraseña en [[level6->level7]]
 - Cambio de contraseña en [[level7->level8]]
 - Cambio de contraseña en [[level8->level9]]
+
+## [1.2] - 03-09-2022
+---
+Se agregaron las solución de retos bandit 10 - 16
+
+### Added
+- [[level10->level11]]
+- [[level11->level12]]
+- [[level12->level13]]
+- [[level13->level14]]
+- [[level14->level15]]
+- [[level16->level17]]
+
+## [2] - 03-09-2022
