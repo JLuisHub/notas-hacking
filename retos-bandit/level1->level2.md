@@ -10,21 +10,21 @@ Password: **NH2SXQwcBdpmTEzi3bvBHMM9H66vVXjL**
 
 ## Solución
 
-```properties
+```bash
 hone@Unidad03:~$ ssh bandit1@bandit.labs.overthewire.org -p 2220
-> This is a OverTheWire game server. More information on http://www.overthewire.org/wargames
+This is a OverTheWire game server. More information on http://www.overthewire.org/wargames
 ```
 
 ```
 bandit0@bandit.labs.overthewire.org's password: bandit0
 ```
 
-```properties
+```bash
 bandit1@bandit:~$ ls
 \-
 ```
 
-```properties
+```bash
 bandit1@bandit:~$ cat ./-
 rRGizSaX8Mk1RTb1CNQoXTcYZWU6lgzi
 ```

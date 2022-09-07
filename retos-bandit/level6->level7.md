@@ -13,7 +13,7 @@ Username: **bandit6**
 Password: **P4L4vucdmLnm8I7Vl7jG1ApGSfjYKqJU**
 
 ## Solución
-```properties
+```bash
 hone@Unidad03:~$ ssh bandit6@bandit.labs.overthewire.org -p 2220
 ```
 
@@ -21,12 +21,12 @@ hone@Unidad03:~$ ssh bandit6@bandit.labs.overthewire.org -p 2220
 bandit6@bandit.labs.overthewire.org's password: P4L4vucdmLnm8I7Vl7jG1ApGSfjYKqJU
 ```
 
-```properties
+```bash
 andit6@bandit:~$ find / -user bandit7 -group bandit6 -size 33c 2>/dev/null
 /var/lib/dpkg/info/bandit7.password
 ```
 
-```properties
+```bash
 andit6@bandit:~$ cat /var/lib/dpkg/info/bandit7.password 
 z7WtoNQU2XfjmMtWA8u5rN4vzqu4v99S
 ```

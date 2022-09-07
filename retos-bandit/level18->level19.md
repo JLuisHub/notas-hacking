@@ -9,7 +9,7 @@ Username: **bandit18**
 Password: **hga5tuuCLF6fFzUpnagiMN8ssu9LFrdg**
 
 ## Solución
-```properties
+```bash
 hone@Unidad03:~$ ssh bandit18@bandit.labs.overthewire.org -p 2220 cat readme
 ```
 
@@ -17,7 +17,7 @@ hone@Unidad03:~$ ssh bandit18@bandit.labs.overthewire.org -p 2220 cat readme
 bandit18@bandit.labs.overthewire.org's password: hga5tuuCLF6fFzUpnagiMN8ssu9LFrdg 
 ```
 
-```properties
+```bash
 awhqfNnAbc1naukrpqDYcF95h7HoMTrC
 ```
 

@@ -9,7 +9,7 @@ Username: **bandit21**
 Password: **NvEJF7oVjkddltPSrdKEFOllh9V1IBcq**
 
 ## Solución
-```properties
+```bash
 hone@Unidad03:~$ ssh bandit21@bandit.labs.overthewire.org -p 2220
 ```
 
@@ -17,7 +17,7 @@ hone@Unidad03:~$ ssh bandit21@bandit.labs.overthewire.org -p 2220
 bandit21@bandit.labs.overthewire.org's password: NvEJF7oVjkddltPSrdKEFOllh9V1IBcq 
 ```
 
-```properties
+```bash
 bandit21@bandit:~$ ls -la /etc/cron.d/
 total 48
 drwxr-xr-x   2 root root 4096 Sep  1 06:30 .
@@ -34,20 +34,20 @@ drwxr-xr-x 110 root root 4096 Sep  1 06:30 ..
 -rw-r--r--   1 root root  396 Feb  2  2021 sysstat
 ```
 
-```properties
+```bash
 bandit21@bandit:~$ cat /etc/cron.d/cronjob_bandit22
 @reboot bandit22 /usr/bin/cronjob_bandit22.sh &> /dev/null
 * * * * * bandit22 /usr/bin/cronjob_bandit22.sh &> /dev/null
 ```
 
-```properties
+```bash
 bandit21@bandit:~$ cat /usr/bin/cronjob_bandit22.sh 
 #!/bin/bash
 chmod 644 /tmp/t7O6lds9S0RqQh9aMcz6ShpAoZKF7fgv
 cat /etc/bandit_pass/bandit22 > /tmp/t7O6lds9S0RqQh9aMcz6ShpAoZKF7fgv
 ```
 
-```properties
+```bash
 bandit21@bandit:~$ cat /usr/bin/cronjob_bandit22.sh 
 bandit21@bandit:~$ cat /tmp/t7O6lds9S0RqQh9aMcz6ShpAoZKF7fgv
 WdDozAdTM2z9DiFEQ2mGlwngMfj4EZff

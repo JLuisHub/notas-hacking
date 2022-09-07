@@ -9,7 +9,7 @@ Username: **bandit7**
 Password: **z7WtoNQU2XfjmMtWA8u5rN4vzqu4v99S**
 
 ## Solución
-```properties
+```bash
 one@Unidad03:~$ ssh bandit7@bandit.labs.overthewire.org -p 2220
 ```
 
@@ -17,12 +17,12 @@ one@Unidad03:~$ ssh bandit7@bandit.labs.overthewire.org -p 2220
 bandit7@bandit.labs.overthewire.org's password: z7WtoNQU2XfjmMtWA8u5rN4vzqu4v99S
 ```
 
-```properties
+```bash
 bandit7@bandit:~$ ls
 data.txt
 ```
 
-```properties
+```bash
 bandit7@bandit:~$ grep millionth data.txt 
 millionth	TESKZC0XvTetK0S9xNwm25STk5iWrBvP
 ```

@@ -11,7 +11,7 @@ Password: **bandit0**
 ## Solución
 Conectarse por ssh de la "siguiente" manera: 
 
-```properties
+```bash
 hone@Unidad03:~$ ssh bandit0@bandit.labs.overthewire.org -p 2220
 ```
 

@@ -9,7 +9,7 @@ Username: **bandit10**
 Password: **G7w8LIi6J3kTb8A7j9LgrywtEUlyyp6s**
 
 ## Solución
-```properties
+```bash
 hone@Unidad03:~$ ssh bandit10@bandit.labs.overthewire.org -p 2220
 ```
 
@@ -17,20 +17,16 @@ hone@Unidad03:~$ ssh bandit10@bandit.labs.overthewire.org -p 2220
 bandit10@bandit.labs.overthewire.org's password: G7w8LIi6J3kTb8A7j9LgrywtEUlyyp6s 
 ```
 
-```properties
+```bash
 bandit10@bandit:~$ ls
 data.txt
 ```
 
-```properties
+```bash
 bandit10@bandit:~$ cat data.txt | base64 -d
-> The password is 6zPeziLdR2RKNdNYFNb6nVCKzphlXHBM
+The password is 6zPeziLdR2RKNdNYFNb6nVCKzphlXHBM
 ```
 
 ## Notas adicionales
 ## Referencias
 [Base64 on Wikipedia](https://en.wikipedia.org/wiki/Base64)
-
-cat data.txt | base64 -d
-
-

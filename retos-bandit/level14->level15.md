@@ -9,7 +9,7 @@ Username: **bandit14**
 Password: **fGrHPx402xGC7U7rXKDaxiWFTOiF0ENq**
 
 ## Solución
-```properties
+```bash
 hone@Unidad03:~$ ssh bandit14@bandit.labs.overthewire.org -p 2220
 ```
 
@@ -17,16 +17,16 @@ hone@Unidad03:~$ ssh bandit14@bandit.labs.overthewire.org -p 2220
 bandit14@bandit.labs.overthewire.org's password: fGrHPx402xGC7U7rXKDaxiWFTOiF0ENq 
 ```
 
-```properties
+```bash
 bandit14@bandit:~$ nc -v localhost 30000
-> Connection to localhost (127.0.0.1) 30000 port [tcp/*] succeeded!
+Connection to localhost (127.0.0.1) 30000 port [tcp/*] succeeded!
 ```
 
 ```
 (Password del usuario actual)> fGrHPx402xGC7U7rXKDaxiWFTOiF0ENq
 ```
 
-```properties
+```bash
 Correct!
 jN2kgmIXJ6fShzhT2avhotn4Zcka6tnt
 ```

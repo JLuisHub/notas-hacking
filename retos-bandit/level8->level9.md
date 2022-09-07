@@ -9,7 +9,7 @@ Username: **bandit8**
 Password: **TESKZC0XvTetK0S9xNwm25STk5iWrBvP**
 
 ## Solución
-```properties
+```bash
 hone@Unidad03:~$ ssh bandit8@bandit.labs.overthewire.org -p 2220
 ```
 
@@ -17,12 +17,12 @@ hone@Unidad03:~$ ssh bandit8@bandit.labs.overthewire.org -p 2220
 bandit8@bandit.labs.overthewire.org's password: TESKZC0XvTetK0S9xNwm25STk5iWrBvP 
 ```
 
-```properties
+```bash
 andit8@bandit:~$ ls
 data.txt
 ```
 
-```properties
+```propertibashes
 bandit8@bandit:~$ sort data.txt | uniq -u
 EN632PlfYiZbn3PhVK3XOGSlNInNE00t
 ```

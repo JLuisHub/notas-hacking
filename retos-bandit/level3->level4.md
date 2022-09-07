@@ -9,7 +9,7 @@ Username: **bandit3**
 Password: **aBZ0W5EmUfAf7kHTQeOwd8bauFJ2lAiG**
 
 ## Solución
-```properties
+```bash
 hone@Unidad03:~$ ssh bandit3@bandit.labs.overthewire.org -p 2220
 ```
 
@@ -17,16 +17,16 @@ hone@Unidad03:~$ ssh bandit3@bandit.labs.overthewire.org -p 2220
 bandit3@bandit.labs.overthewire.org's password: aBZ0W5EmUfAf7kHTQeOwd8bauFJ2lAiG
 ```
 
-```properties
-bandit3@bandit:~$** ls
+```bash
+bandit3@bandit:~$ ls
 inhere
 ```
 
-```properties
+```bash
 bandit3@bandit:~$ cd inhere/
 ```
 
-```properties
+```bash
 bandit3@bandit:~/inhere$ ls -la
 total 12
 drwxr-xr-x 2 root    root    4096 Sep  1 06:30 .
@@ -34,7 +34,7 @@ drwxr-xr-x 3 root    root    4096 Sep  1 06:30 ..
 -rw-r----- 1 bandit4 bandit3   33 Sep  1 06:30 .hidden
 ```
 
-```properties
+```bash
 bandit3@bandit:~/inhere$ cat .hidden 
 2EW7BBsr6aMMoJ2HjW067dm8EgX26xNe
 ```

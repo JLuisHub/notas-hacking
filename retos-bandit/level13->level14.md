@@ -9,7 +9,7 @@ Username: **bandit13**
 Password: **wbWdlBxEir4CaE8LaPhauuOo6pwRmrDw**
 
 ## Solución
-```properties
+```bash
 hone@Unidad03:~$ ssh bandit13@bandit.labs.overthewire.org -p 2220
 ```
 
@@ -17,16 +17,16 @@ hone@Unidad03:~$ ssh bandit13@bandit.labs.overthewire.org -p 2220
 bandit13@bandit.labs.overthewire.org's password: wbWdlBxEir4CaE8LaPhauuOo6pwRmrDw 
 ```
 
-```properties
+```bash
 bandit13@bandit:~$ ls
 sshkey.private
 ```
 
-```properties
+```bash
 bandit13@bandit:~$ ssh -i sshkey.private bandit14@localhost -p 2220
 ```
 
-```properties
+```bash
 bandit14@bandit:~$ cat /etc/bandit_pass/bandit14
 fGrHPx402xGC7U7rXKDaxiWFTOiF0ENq
 ```

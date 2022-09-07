@@ -12,7 +12,7 @@ Username: **bandit5**
 Password: **lrIWWI6bB37kxfiCQZqUdOIYfr6eEeqR**
 
 ## Solución
-```properties
+```bash
 hone@Unidad03:~$ ssh bandit5@bandit.labs.overthewire.org -p 2220
 ```
 
@@ -20,32 +20,32 @@ hone@Unidad03:~$ ssh bandit5@bandit.labs.overthewire.org -p 2220
 bandit4@bandit.labs.overthewire.org's password: lrIWWI6bB37kxfiCQZqUdOIYfr6eEeqR
 ```
 
-```properties
+```bash
 bandit5@bandit.labs.overthewire.org's password: koReBOKuIDDepwhWk7jZC0RTdopnAYKh
 ```
 
-```properties
+```bash
 bandit5@bandit:~$ ls
 inhere
 ```
 
-```properties
-**bandit5@bandit:~$** cd inhere/
+```bash
+bandit5@bandit:~$** cd inhere/
 ```
 
-```properties
+```bash
 bandit5@bandit:~/inhere$ ls
-> maybehere00  maybehere03  maybehere06  maybehere09  maybehere12  maybehere15  maybehere18
-> maybehere01  maybehere04  maybehere07  maybehere10  maybehere13  maybehere16  maybehere19
-> maybehere02  maybehere05  maybehere08  maybehere11  maybehere14  maybehere17
+maybehere00  maybehere03  maybehere06  maybehere09  maybehere12  maybehere15  maybehere18
+maybehere01  maybehere04  maybehere07  maybehere10  maybehere13  maybehere16  maybehere19
+maybehere02  maybehere05  maybehere08  maybehere11  maybehere14  maybehere17
 ```
 
-```properties
+```bash
 bandit5@bandit:~/inhere$ file maybehere{00..19}/* | find -size 1033c
 ./maybehere07/.file2
 ```
 
-```properties
+```bash
 bandit5@bandit:~/inhere$ cat maybehere07/.file2
 P4L4vucdmLnm8I7Vl7jG1ApGSfjYKqJU
 ```

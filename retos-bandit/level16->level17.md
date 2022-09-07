@@ -9,7 +9,7 @@ Username: **bandit16**
 Password: **JQttfApK4SeyHwDlI9SXGR50qclOAil1**
 
 ## Solución
-```properties
+```bash
 hone@Unidad03:~$ ssh bandit16@bandit.labs.overthewire.org -p 2220
 ```
 
@@ -17,55 +17,55 @@ hone@Unidad03:~$ ssh bandit16@bandit.labs.overthewire.org -p 2220
 bandit16@bandit.labs.overthewire.org's password: JQttfApK4SeyHwDlI9SXGR50qclOAil1 
 ```
 
-```properties
+```bash
 bandit16@bandit:~$ nmap localhost -p 31000-32000
-> Starting Nmap 7.80 ( https://nmap.org ) at 2022-09-04 04:16 UTC
-> Nmap scan report for localhost (127.0.0.1)
-> Host is up (0.00010s latency).
-> Not shown: 996 closed ports
-> PORT      STATE SERVICE
-> 31046/tcp open  unknown
-> 31518/tcp open  unknown
-> 31691/tcp open  unknown
-> 31790/tcp open  unknown
-> 31960/tcp open  unknown
+Starting Nmap 7.80 ( https://nmap.org ) at 2022-09-04 04:16 UTC
+Nmap scan report for localhost (127.0.0.1)
+Host is up (0.00010s latency).
+Not shown: 996 closed ports
+PORT      STATE SERVICE
+31046/tcp open  unknown
+31518/tcp open  unknown
+31691/tcp open  unknown
+31790/tcp open  unknown
+31960/tcp open  unknown
 
-> Nmap done: 1 IP address (1 host up) scanned in 0.05 seconds
+Nmap done: 1 IP address (1 host up) scanned in 0.05 seconds
 ```
 
-```properties
-> bandit16@bandit:~$ openssl s_client -connect localhost:31790
-> CONNECTED(00000003)
-> Can't use SSL_get_servername
-> depth=0 CN = localhost
-> verify error:num=18:self-signed certificate
-> verify return:1
-> depth=0 CN = localhost
-> verify error:num=10:certificate has expired
-> notAfter=Sep  3 23:40:42 2022 GMT
-> verify return:1
-> depth=0 CN = localhost
-> notAfter=Sep  3 23:40:42 2022 GMT
-> verify return:1
+```bash
+bandit16@bandit:~$ openssl s_client -connect localhost:31790
+CONNECTED(00000003)
+Can't use SSL_get_servername
+depth=0 CN = localhost
+verify error:num=18:self-signed certificate
+verify return:1
+depth=0 CN = localhost
+verify error:num=10:certificate has expired
+notAfter=Sep  3 23:40:42 2022 GMT
+verify return:1
+depth=0 CN = localhost
+notAfter=Sep  3 23:40:42 2022 GMT
+verify return:1
 ---
 [...
 ```
 
-```properties
+```bash
     ...]
->   Start Time: 1662265342
->    Timeout   : 7200 (sec)
->     Verify return code: 10 (certificate has expired)
->    Extended master secret: no
->    Max Early Data: 0
+   Start Time: 1662265342
+   Timeout   : 7200 (sec)
+   Verify return code: 10 (certificate has expired)
+   Extended master secret: no
+   Max Early Data: 0
 ---
->read R BLOCK
+read R BLOCK
 JQttfApK4SeyHwDlI9SXGR50qclOAil1
 ```
 
-```properties
+```bash
 Correct!
-> -----BEGIN RSA PRIVATE KEY-----
+ -----BEGIN RSA PRIVATE KEY-----
 MIIEogIBAAKCAQEAvmOkuifmMg6HL2YPIOjon6iWfbp7c3jx34YkYWqUH57SUdyJ
 imZzeyGC0gtZPGujUSxiJSWI/oTqexh+cAMTSMlOJf7+BrJObArnxd9Y7YT2bRPQ
 Ja6Lzb558YW3FZl87ORiO+rW4LCDCNd2lUvLE/GL2GWyuKN0K5iCd5TbtJzEkQTu
@@ -91,7 +91,7 @@ YOdjHdSOoKvDQNWu6ucyLRAWFuISeXw9a/9p7ftpxm0TSgyvmfLF2MIAEwyzRqaM
 77pBAoGAMmjmIJdjp+Ez8duyn3ieo36yrttF5NSsJLAbxFpdlc1gvtGCWW+9Cq0b
 dxviW8+TFVEBl1O4f7HVm6EpTscdDxU+bCXWkfjuRb7Dy9GOtt9JPsX8MBTakzh3
 vBgsyi/sN3RqRBcGU40fOoZyfAMT8s1m/uYv52O6IgeuZ/ujbjY=
-> -----END RSA PRIVATE KEY-----
+ -----END RSA PRIVATE KEY-----
 
 closed
 ```

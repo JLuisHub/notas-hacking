@@ -9,7 +9,7 @@ Username: **bandit20**
 Password: **VxCazJaVykI6W36BkBU0mJTCM8rR95XT**
 
 ## Solución
-```properties
+```bash
 hone@Unidad03:~$ ssh bandit20@bandit.labs.overthewire.org -p 2220
 ```
 
@@ -17,28 +17,28 @@ hone@Unidad03:~$ ssh bandit20@bandit.labs.overthewire.org -p 2220
 bandit20@bandit.labs.overthewire.org's password: VxCazJaVykI6W36BkBU0mJTCM8rR95XT 
 ```
 
-```properties
+```bash
 bandit20@bandit:~$ ls -la
-> total 36
-> drwxr-xr-x  2 root     root      4096 Sep  1 06:30 .
-> drwxr-xr-x 49 root     root      4096 Sep  1 06:30 ..
-> -rw-r--r--  1 root     root       220 Jan  6  2022 .bash_logout
-> -rw-r--r--  1 root     root      3771 Jan  6  2022 .bashrc
-> -rw-r--r--  1 root     root       807 Jan  6  2022 .profile
-> -rwsr-x---  1 bandit21 bandit20 15596 Sep  1 06:30 suconnect
+total 36
+drwxr-xr-x  2 root     root      4096 Sep  1 06:30 .
+drwxr-xr-x 49 root     root      4096 Sep  1 06:30 ..
+-rw-r--r--  1 root     root       220 Jan  6  2022 .bash_logout
+-rw-r--r--  1 root     root      3771 Jan  6  2022 .bashrc
+-rw-r--r--  1 root     root       807 Jan  6  2022 .profile
+-rwsr-x---  1 bandit21 bandit20 15596 Sep  1 06:30 suconnect
 ```
 
-```properties
+```bash
 bandit20@bandit:~$ cat /etc/bandit_pass/bandit20 | nc -lp 6000 <<< VxCazJaVykI6W36BkBU0mJTCM8rR95XT &
 > [1] 3839832
 ```
 
-```properties
+```bash
 bandit20@bandit:~$ ./suconnect 6000
-> Read: VxCazJaVykI6W36BkBU0mJTCM8rR95XT
-> Password matches, sending next password
+Read: VxCazJaVykI6W36BkBU0mJTCM8rR95XT
+Password matches, sending next password
 NvEJF7oVjkddltPSrdKEFOllh9V1IBcq
-> [1]+  Done                    cat /etc/bandit_pass/bandit20 | nc -lp 6000 <<< VxCazJaVykI6W36BkBU0mJTCM8rR95XT
+[1]+  Done                    cat /etc/bandit_pass/bandit20 | nc -lp 6000 <<< VxCazJaVykI6W36BkBU0mJTCM8rR95XT
 ```
 
 ## Notas adicionales

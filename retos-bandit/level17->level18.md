@@ -9,7 +9,7 @@ Username: **bandit17**
 Password: **VwOSWtCA7lRKkTfbr2IDh6awj9RNZM5e**
 
 ## Solución
-```properties
+```bash
 hone@Unidad03:~$ ssh bandit17bandit.labs.overthewire.org -p 2220
 ```
 
@@ -17,19 +17,15 @@ hone@Unidad03:~$ ssh bandit17bandit.labs.overthewire.org -p 2220
 bandit17@bandit.labs.overthewire.org's password: VwOSWtCA7lRKkTfbr2IDh6awj9RNZM5e 
 ```
 
-```properties
+```bash
 bandit17@bandit:~$ diff passwords.old passwords.new 
 42c42
-< 09wUIyMU4YhOzl1Lzxoz0voIBzZ2TUAf
+09wUIyMU4YhOzl1Lzxoz0voIBzZ2TUAf
 ---
-> hga5tuuCLF6fFzUpnagiMN8ssu9LFrdg
+hga5tuuCLF6fFzUpnagiMN8ssu9LFrdg
 ```
 
 ## Notas adicionales
 ## Referencias
-
-diff passwords.old passwords.new
-"Lineas que cambiarion"
-
 
 

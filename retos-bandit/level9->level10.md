@@ -9,7 +9,7 @@ Username: **bandit9**
 Password: **EN632PlfYiZbn3PhVK3XOGSlNInNE00t**
 
 ## Solución
-```properties
+```bash
 hone@Unidad03:~$ ssh bandit9@bandit.labs.overthewire.org -p 2220
 ```
 
@@ -17,18 +17,18 @@ hone@Unidad03:~$ ssh bandit9@bandit.labs.overthewire.org -p 2220
 bandit9@bandit.labs.overthewire.org's password: EN632PlfYiZbn3PhVK3XOGSlNInNE00t 
 ```
 
-```properties
+```bash
 bandit9@bandit:~$ ls
 data.txt
 ```
 
-```properties
+```bash
 bandit9@bandit:~$ strings data.txt | grep ==
-> ========== the
-> bu========== password
-> 4iu========== is
-> b~==P
-> ========== G7w8LIi6J3kTb8A7j9LgrywtEUlyyp6s
+========== the
+bu========== password
+4iu========== is
+b~==P
+========== G7w8LIi6J3kTb8A7j9LgrywtEUlyyp6s
 ```
 
 ## Notas adicionales
