@@ -84,4 +84,18 @@ Se modifico la etiqueta para el tipo de codigo
 - level18->level19
 - level20->level21
 - level21->level22
-- ## [3.1] - 06-09-2022
+
+## [3.1] - 06-09-2022
+---
+Retos bandit del 22 - 27
+
+### Added
+- level22->level23
+- level23->level24
+- level24->level25
+- level25->level26
+- level26->level27
+- level27->level28
+ 
+## [3.4] - 10-09-2022
+---
