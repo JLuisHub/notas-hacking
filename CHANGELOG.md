@@ -97,5 +97,13 @@ Retos bandit del 22 - 27
 - level26->level27
 - level27->level28
  
-## [3.4] - 10-09-2022
+## [3.2] - 10-09-2022
 ---
+Se le agrego el objetivo al nivel level27->level28
+
+### Changed
+- level27->level28
+
+## [3.3] - 12-09-2022
+---
+
