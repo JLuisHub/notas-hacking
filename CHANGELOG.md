@@ -106,4 +106,21 @@ Se le agrego el objetivo al nivel level27->level28
 
 ## [3.3] - 12-09-2022
 ---
+Se corrigieron errores menores en la documentacion de los archivos 
+- level25->level26.md
+- level26->level27.md
+- level27->level28.md
 
+## [3.4] - 16-09-2022
+---
+Retos bandit del 28 - 33
+
+### Added
+- level28->level29.md
+- level29->level30.md
+- level31->level31.md
+- level32->level33.md
+- level33->level34.md
+- 
+## [4] - 16-09-2022
+---
