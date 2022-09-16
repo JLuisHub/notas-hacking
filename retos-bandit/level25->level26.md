@@ -5,7 +5,7 @@ Logging in to bandit26 from bandit25 should be fairly easy… The shell for user
 
 ## Datos de acceso
 Host: **bandit.labs.overthewire.org** on port 2220
-Username: **bandit23**
+Username: **bandit25**
 Password: **p7TaowMYrmu23Ol8hiZh9UvD0O9hpx8d**
 
 ## Solución

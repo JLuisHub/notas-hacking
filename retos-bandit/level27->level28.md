@@ -7,12 +7,12 @@ Clone the repository and find the password for the next level.
 
 ## Datos de acceso
 Host: **bandit.labs.overthewire.org** on port 2220
-Username: **bandit23**
+Username: **bandit27**
 Password: **YnQpBuifNMas1hcUFk70ZmqkhUU2EuaS**
 
 ## Solución
 ```bash
-hone@Unidad03:~$ ssh bandit22@bandit.labs.overthewire.org -p 2220
+hone@Unidad03:~$ ssh bandit27@bandit.labs.overthewire.org -p 2220
 ```
 
 ```

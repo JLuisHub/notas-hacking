@@ -5,7 +5,7 @@ Good job getting a shell! Now hurry and grab the password for bandit27!
 
 ## Datos de acceso
 Host: **bandit.labs.overthewire.org** on port 2220
-Username: **bandit23**
+Username: **bandit26**
 Password: **c7GvcKlw9mC7aUQaPx7nwFstuAIBw1o1**
 
 ## Solución
