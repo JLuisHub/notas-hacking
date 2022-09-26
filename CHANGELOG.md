@@ -124,3 +124,40 @@ Retos bandit del 28 - 33
 - 
 ## [4] - 16-09-2022
 ---
+Se agregaron los retos picoCTF de General Skill para el examen
+
+
+### Added
+Pico CTF 2019
+- Lets Warm Up 
+- Warmed Up
+- 2Warm
+- what's a net cat?
+- strings it
+- Bases
+- First Grep
+- Based
+- plumbing
+
+Pico CTF 2021
+- Obedient Cat
+- Wave a flag
+- Nice netcat...
+- Static ain't always noise
+- Tab, Tab, Attack
+- Magikarp Ground Mission
+
+
+Beginner PicoMini 2022
+- runme.py
+- convertme.py
+- Codebook
+- fixme1.py
+- fixme2.py
+- Glitch Cat
+- PW Crack 1
+- PW Crack 2
+- PW Crack 3
+
+## [5] - 25-09-2022
+---
