@@ -161,3 +161,22 @@ Beginner PicoMini 2022
 
 ## [5] - 25-09-2022
 ---
+Se agregaron los retos picoCTF web-2019 de la Actividad 05
+### Added
+- Client-side-again
+- Insp3ct0r
+- dont-use-client-side
+- logon
+- picobrowser
+- where-are-the-robots
+## [6] - 8-10-2022
+---
+Se arreglo la insercion de las imagenes en los archivos markdown
+### Fixed
+- Client-side-again (imagenes)
+- Insp3ct0r (imagenes)
+- dont-use-client-side (imagenes)
+- logon (imagenes)
+- picobrowser (imagenes)
+- ## [6.1] - 8-10-2022
+---
