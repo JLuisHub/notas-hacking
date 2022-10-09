@@ -124,44 +124,42 @@ Retos bandit del 28 - 33
 - 
 ## [4] - 16-09-2022
 ---
-Se agregaron los retos picoCTF de General Skill para el examen
-
+Se agregaron los retos picoCTF de General Skill para el examen.
 
 ### Added
 Pico CTF 2019
-- Lets Warm Up 
-- Warmed Up
-- 2Warm
-- what's a net cat?
-- strings it
-- Bases
-- First Grep
-- Based
-- plumbing
+- [Lets Warm Up](picoCTF/general-skills/2019/Lets_Warm_Up.md)
+- [Warmed Up](picoCTF/general-skills/2019/Warmed_Up.md)
+- [2Warm](picoCTF/general-skills/2019/2Warm.md)
+- [what's a net cat?](picoCTF/general-skills/2019/what's_a_net_cat.md)
+- [strings it](picoCTF/general-skills/2019/strings_it.md)
+- [Bases](picoCTF/general-skills/2019/Bases.md)
+- [First Grep](picoCTF/general-skills/2019/First_Grep.md)
+- [Based](picoCTF/general-skills/2019/Based.md)
+- [plumbing](picoCTF/general-skills/2019/plumbing.md)
 
 Pico CTF 2021
-- Obedient Cat
-- Wave a flag
-- Nice netcat...
-- Static ain't always noise
-- Tab, Tab, Attack
-- Magikarp Ground Mission
-
+- [Obedient Cat](picoCTF/general-skills/2021/Obedient_Cat.md)
+- [Wave a flag](picoCTF/general-skills/2021/Wave_a_flag.md)
+- [Nice netcat...](picoCTF/general-skills/2021/Nice_netcat.md)
+- [Static ain't always noise](picoCTF/general-skills/2021/Static_ain't_always_noise.md)
+- [Tab, Tab, Attack](picoCTF/general-skills/2021/Tab,Tab,Attack.md)
+- [Magikarp Ground Mission](picoCTF/general-skills/2021/Magikarp_Ground_Mission.md)
 
 Beginner PicoMini 2022
-- runme.py
-- convertme.py
-- Codebook
-- fixme1.py
-- fixme2.py
-- Glitch Cat
-- PW Crack 1
-- PW Crack 2
-- PW Crack 3
+- [runme.py](picoCTF/general-skills/Beginner-picoMini-2022/runme.py.md)
+- [convertme.py](picoCTF/general-skills/Beginner-picoMini-2022/convertme.py.md)
+- [Codebook](picoCTF/general-skills/Beginner-picoMini-2022/Codebook.md)
+- [fixme1.py](picoCTF/general-skills/Beginner-picoMini-2022/fixme1.py.md)
+- [fixme2.py](picoCTF/general-skills/Beginner-picoMini-2022/fixme2.py.md)
+- [Glitch Cat](picoCTF/general-skills/Beginner-picoMini-2022/Glitch_Cat.md)
+- [PW Crack 1](picoCTF/general-skills/Beginner-picoMini-2022/PW_Crack1.md)
+- [PW Crack 2](picoCTF/general-skills/Beginner-picoMini-2022/PW_Crack2.md)
+- [PW Crack 3](picoCTF/general-skills/Beginner-picoMini-2022/PW_Crack3.md)
 
 ## [5] - 25-09-2022
 ---
-Se agregaron los retos picoCTF web-2019 de la Actividad 05
+Se agregaron los retos picoCTF web-2019 de la Actividad 05.
 ### Added
 - [Client-side-again](picoCTF/Web-Exploitation/2019/Client-side-again/Client-side-again.md)
 - [Insp3ct0r](picoCTF/Web-Exploitation/2019/Insp3ct0r/Insp3ct0r.md)
@@ -171,7 +169,7 @@ Se agregaron los retos picoCTF web-2019 de la Actividad 05
 - [where-are-the-robots](picoCTF/Web-Exploitation/2019/where-are-the-robots/where-are-the-robots.md)
 ## [6] - 8-10-2022
 ---
-Se arreglo la insercion de las imagenes en los archivos markdown
+Se arreglo la insercion de las imagenes en los archivos markdown.
 ### Fixed
 - [Client-side-again](picoCTF/Web-Exploitation/2019/Client-side-again/Client-side-again.md) (imagenes)
 - [Insp3ct0r](picoCTF/Web-Exploitation/2019/Insp3ct0r/Insp3ct0r.md) (imagenes)
@@ -181,10 +179,19 @@ Se arreglo la insercion de las imagenes en los archivos markdown
 - [where-are-the-robots](picoCTF/Web-Exploitation/2019/where-are-the-robots/where-are-the-robots.md) (imagenes)
 ## [6.1] - 8-10-2022
 ---
+<<<<<<< HEAD
 Se agregaron los retos picoCTF web-2019 de la Actividad 06
+=======
+Se agregaron los retos picoCTF web-2019 de la Actividad 06.
+>>>>>>> prueba-changelog
 ### Added
 - [Irish-Name-Repo_1](picoCTF/Web-Exploitation/2019/Irish-Name-Repo_1/Irish-Name-Repo_1.md)
 - [Irish-Name-Repo_2](picoCTF/Web-Exploitation/2019/Irish-Name-Repo_2/Irish-Name-Repo_2.md)
 - [Irish-Name-Repo_3](picoCTF/Web-Exploitation/2019/Irish-Name-Repo_3/Irish-Name-Repo_3.md)
 - [JaWT-Scratchpad](picoCTF/Web-Exploitation/2019/JaWT-Scratchpad/JaWT-Scratchpad.md)
+<<<<<<< HEAD
 ---
+=======
+## [7] - 8-10-2022
+---
+>>>>>>> prueba-changelog
