@@ -163,25 +163,25 @@ Beginner PicoMini 2022
 ---
 Se agregaron los retos picoCTF web-2019 de la Actividad 05
 ### Added
-- [Client-side-again](picoCTF/Web-Exploitation/2019/Client-side-again/Client-side-again)
-- [Insp3ct0r](picoCTF/Web-Exploitation/2019/Insp3ct0r/Insp3ct0r)
-- [dont-use-client-side](picoCTF/Web-Exploitation/2019/dont-use-client-side/dont-use-client-side)
-- [logon](picoCTF/Web-Exploitation/2019/logon/logon)
-- [picobrowser](picoCTF/Web-Exploitation/2019/picobrowser/picobrowser)
-- [where-are-the-robots](picoCTF/Web-Exploitation/2019/where-are-the-robots/where-are-the-robots)
+- [Client-side-again](picoCTF/Web-Exploitation/2019/Client-side-again/Client-side-again.md)
+- [Insp3ct0r](picoCTF/Web-Exploitation/2019/Insp3ct0r/Insp3ct0r.md)
+- [dont-use-client-side](picoCTF/Web-Exploitation/2019/dont-use-client-side/dont-use-client-side.md)
+- [logon](picoCTF/Web-Exploitation/2019/logon/logon.md)
+- [picobrowser](picoCTF/Web-Exploitation/2019/picobrowser/picobrowser.md)
+- [where-are-the-robots](picoCTF/Web-Exploitation/2019/where-are-the-robots/where-are-the-robots.md)
 ## [6] - 8-10-2022
 ---
 Se arreglo la insercion de las imagenes en los archivos markdown
 ### Fixed
-- [Client-side-again](picoCTF/Web-Exploitation/2019/Client-side-again/Client-side-again) (imagenes)
-- [Insp3ct0r](picoCTF/Web-Exploitation/2019/Insp3ct0r/Insp3ct0r) (imagenes)
-- [dont-use-client-side](picoCTF/Web-Exploitation/2019/dont-use-client-side/dont-use-client-side) (imagenes)
-- [logon](picoCTF/Web-Exploitation/2019/logon/logon) (imagenes)
-- [picobrowser](picoCTF/Web-Exploitation/2019/picobrowser/picobrowser) (imagenes)
-- [where-are-the-robots](picoCTF/Web-Exploitation/2019/where-are-the-robots/where-are-the-robots) (imagenes)
+- [Client-side-again](picoCTF/Web-Exploitation/2019/Client-side-again/Client-side-again.md) (imagenes)
+- [Insp3ct0r](picoCTF/Web-Exploitation/2019/Insp3ct0r/Insp3ct0r.md) (imagenes)
+- [dont-use-client-side](picoCTF/Web-Exploitation/2019/dont-use-client-side/dont-use-client-side.md) (imagenes)
+- [logon](picoCTF/Web-Exploitation/2019/logon/logon.md) (imagenes)
+- [picobrowser](picoCTF/Web-Exploitation/2019/picobrowser/picobrowser.md) (imagenes)
+- [where-are-the-robots](picoCTF/Web-Exploitation/2019/where-are-the-robots/where-are-the-robots.md) (imagenes)
 ## [6.1] - 8-10-2022
 ---
-- [Irish-Name-Repo_1](picoCTF/Web-Exploitation/2019/Irish-Name-Repo_1/Irish-Name-Repo_1)
-- [Irish-Name-Repo_2](picoCTF/Web-Exploitation/2019/Irish-Name-Repo_2/Irish-Name-Repo_2)
-- [Irish-Name-Repo_3](picoCTF/Web-Exploitation/2019/Irish-Name-Repo_3/Irish-Name-Repo_3)
-- [JaWT-Scratchpad](picoCTF/Web-Exploitation/2019/JaWT-Scratchpad/JaWT-Scratchpad)
+- [Irish-Name-Repo_1](picoCTF/Web-Exploitation/2019/Irish-Name-Repo_1/Irish-Name-Repo_1.md)
+- [Irish-Name-Repo_2](picoCTF/Web-Exploitation/2019/Irish-Name-Repo_2/Irish-Name-Repo_2.md)
+- [Irish-Name-Repo_3](picoCTF/Web-Exploitation/2019/Irish-Name-Repo_3/Irish-Name-Repo_3.md)
+- [JaWT-Scratchpad](picoCTF/Web-Exploitation/2019/JaWT-Scratchpad/JaWT-Scratchpad.md)
