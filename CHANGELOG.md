@@ -181,6 +181,8 @@ Se arreglo la insercion de las imagenes en los archivos markdown
 - [where-are-the-robots](picoCTF/Web-Exploitation/2019/where-are-the-robots/where-are-the-robots.md) (imagenes)
 ## [6.1] - 8-10-2022
 ---
+Se agregaron los retos picoCTF web-2019 de la Actividad 06
+### Added
 - [Irish-Name-Repo_1](picoCTF/Web-Exploitation/2019/Irish-Name-Repo_1/Irish-Name-Repo_1.md)
 - [Irish-Name-Repo_2](picoCTF/Web-Exploitation/2019/Irish-Name-Repo_2/Irish-Name-Repo_2.md)
 - [Irish-Name-Repo_3](picoCTF/Web-Exploitation/2019/Irish-Name-Repo_3/Irish-Name-Repo_3.md)
