@@ -163,20 +163,25 @@ Beginner PicoMini 2022
 ---
 Se agregaron los retos picoCTF web-2019 de la Actividad 05
 ### Added
-- Client-side-again
-- Insp3ct0r
-- dont-use-client-side
-- logon
-- picobrowser
-- where-are-the-robots
+- [Client-side-again](picoCTF/Web-Exploitation/2019/Client-side-again/Client-side-again)
+- [Insp3ct0r](picoCTF/Web-Exploitation/2019/Insp3ct0r/Insp3ct0r)
+- [dont-use-client-side](picoCTF/Web-Exploitation/2019/dont-use-client-side/dont-use-client-side)
+- [logon](picoCTF/Web-Exploitation/2019/logon/logon)
+- [picobrowser](picoCTF/Web-Exploitation/2019/picobrowser/picobrowser)
+- [where-are-the-robots](picoCTF/Web-Exploitation/2019/where-are-the-robots/where-are-the-robots)
 ## [6] - 8-10-2022
 ---
 Se arreglo la insercion de las imagenes en los archivos markdown
 ### Fixed
-- Client-side-again (imagenes)
-- Insp3ct0r (imagenes)
-- dont-use-client-side (imagenes)
-- logon (imagenes)
-- picobrowser (imagenes)
-- ## [6.1] - 8-10-2022
+- [Client-side-again](picoCTF/Web-Exploitation/2019/Client-side-again/Client-side-again) (imagenes)
+- [Insp3ct0r](picoCTF/Web-Exploitation/2019/Insp3ct0r/Insp3ct0r) (imagenes)
+- [dont-use-client-side](picoCTF/Web-Exploitation/2019/dont-use-client-side/dont-use-client-side) (imagenes)
+- [logon](picoCTF/Web-Exploitation/2019/logon/logon) (imagenes)
+- [picobrowser](picoCTF/Web-Exploitation/2019/picobrowser/picobrowser) (imagenes)
+- [where-are-the-robots](picoCTF/Web-Exploitation/2019/where-are-the-robots/where-are-the-robots) (imagenes)
+## [6.1] - 8-10-2022
 ---
+- [Irish-Name-Repo_1](picoCTF/Web-Exploitation/2019/Irish-Name-Repo_1/Irish-Name-Repo_1)
+- [Irish-Name-Repo_2](picoCTF/Web-Exploitation/2019/Irish-Name-Repo_2/Irish-Name-Repo_2)
+- [Irish-Name-Repo_3](picoCTF/Web-Exploitation/2019/Irish-Name-Repo_3/Irish-Name-Repo_3)
+- [JaWT-Scratchpad](picoCTF/Web-Exploitation/2019/JaWT-Scratchpad/JaWT-Scratchpad)

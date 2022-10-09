@@ -1,4 +1,0 @@
-# extensions
-
-xxd "imagen" | head
-
