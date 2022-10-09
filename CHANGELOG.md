@@ -131,7 +131,7 @@ Pico CTF 2019
 - [Lets Warm Up](picoCTF/general-skills/2019/Lets_Warm_Up.md)
 - [Warmed Up](picoCTF/general-skills/2019/Warmed_Up.md)
 - [2Warm](picoCTF/general-skills/2019/2Warm.md)
-- [what's a net cat?](picoCTF/general-skills/2019/whats_a_net_cat?.md)
+- [what's a net cat?](picoCTF/general-skills/2019/what's_a_net_cat.md)
 - [strings it](picoCTF/general-skills/2019/strings_it.md)
 - [Bases](picoCTF/general-skills/2019/Bases.md)
 - [First Grep](picoCTF/general-skills/2019/First_Grep.md)
