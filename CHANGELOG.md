@@ -187,3 +187,9 @@ Se agregaron los retos picoCTF web-2019 de la Actividad 06.
 - [JaWT-Scratchpad](picoCTF/Web-Exploitation/2019/JaWT-Scratchpad/JaWT-Scratchpad.md)
 ## [7] - 8-10-2022
 ---
+Se agregaron los retos picoCTF web-2021 de la Actividad 07.
+### Added
+- [GET aHEAD](picoCTF/Web-Exploitation/2021/GET_aHEAD.md)
+- [Cookies](picoCTF/Web-Exploitation/2021/Cookies.md)
+- [Scavenger_Hun](picoCTF/Web-Exploitation/2021/Scavenger_Hun/Scavenger_Hun.md)
+---
