@@ -191,5 +191,5 @@ Se agregaron los retos picoCTF web-2021 de la Actividad 07.
 ### Added
 - [GET aHEAD](picoCTF/Web-Exploitation/2021/GET_aHEAD.md)
 - [Cookies](picoCTF/Web-Exploitation/2021/Cookies.md)
-- [Scavenger_Hun](picoCTF/Web-Exploitation/2021/Scavenger_Hun/Scavenger_Hun.md)
+- [Scavenger_Hun](picoCTF/Web-Exploitation/2021/Scavenger_Hunt/Scavenger_Hunt.md)
 ---
