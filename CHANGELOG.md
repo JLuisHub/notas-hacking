@@ -193,3 +193,17 @@ Se agregaron los retos picoCTF web-2021 de la Actividad 07.
 - [Cookies](picoCTF/Web-Exploitation/2021/Cookies.md)
 - [Scavenger_Hun](picoCTF/Web-Exploitation/2021/Scavenger_Hunt/Scavenger_Hunt.md)
 ---
+Se agregaron los retos picoCTF web-2022 de la Tarea 5
+### Added
+-   [Includes](picoCTF/Web-Exploitation/2022/includes/includes.md)
+-   [Inspect HTML](picoCTF/Web-Exploitation/2022/Inspect_html/Inspect_html.md)
+-   [Local Authority](picoCTF/Web-Exploitation/2022/local_Authority/local_Authority.md)
+-   [Search Source](picoCTF/Web-Exploitation/2022/search_source.md)
+-   [Forbidden Paths](picoCTF/Web-Exploitation/2022/Forbidden_Paths/Forbidden_Paths.md)
+-   [Power Cookie](picoCTF/Web-Exploitation/2022/Power_Cooki/Power_Cooki.md)
+-   [Roboto Sans](picoCTF/Web-Exploitation/2022/roboto_Sans/roboto_Sans.md)
+-   [Secrets](picoCTF/Web-Exploitation/2022/Secrets/Secrets.md)
+-   [SQL Direct](picoCTF/Web-Exploitation/2022/SQL_Direct.md)
+-   [SQLLite](picoCTF/Web-Exploitation/2022/SQLiLite/SQLiLite.md)
+## [8] 16-oct-2022
+---
