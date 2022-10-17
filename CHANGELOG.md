@@ -207,3 +207,14 @@ Se agregaron los retos picoCTF web-2022 de la Tarea 5
 -   [SQLLite](picoCTF/Web-Exploitation/2022/SQLiLite/SQLiLite.md)
 ## [8] 16-oct-2022
 ---
+Se agregaron los retos picoCTF Forensic-2019
+### Added
+- [Glory of the Garden](picoCTF/forensic/2019/Glory_of_the_Garden/Glory_of_the_Garden.md)
+- [So Meta](picoCTF/forensic/2019/So_Meta/So_Meta.md)
+- [shark on wire 1](picoCTF/forensic/2019/shark_on_wire_1/shark_on_wire_1.md)
+- [extensions](picoCTF/forensic/2019/extensions/extensions.md)
+- [What Lies Within](picoCTF/forensic/2019/What_Lies_Within/What_Lies_Within.md)
+- [m00nwalk](picoCTF/forensic/2019/m00nwalk/m00nwalk.md)
+- [WhitePages](picoCTF/forensic/2019/WhitePages/WhitePages.md)
+## [9] 17-oct-2022
+---
